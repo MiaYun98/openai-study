@@ -1,7 +1,7 @@
 # openai-study
 ## Description 
-
-
+This is the website that User can communicate with OpenAI. 
+It is Simialr with Chat GPT since we are using openai npm package. 
 
 ## User story 
 
